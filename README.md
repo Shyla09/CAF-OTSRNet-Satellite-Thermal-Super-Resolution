@@ -253,7 +253,7 @@ These files can be directly uploaded into the demo interface for evaluation.
 
 This project is intended for research, educational, and demonstration purposes.
 
-
+---
 CAF-OTSRNet Development Team
 
 Cross-Attention Fusion Optical Guided Thermal Super-Resolution for Satellite Remote Sensing.
